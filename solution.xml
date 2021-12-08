@@ -1,0 +1,34 @@
+<ImportExportXml version="9.2.21104.147" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SolutionManifest>
+    <UniqueName>ExportComponents8fb43dffbfc94ae993c738eef114d2fa</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="ExportComponents8fb43dffbfc94ae993c738eef114d2fa" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0</Version>
+    <Managed>0</Managed>
+    <Publisher>
+      <UniqueName>Cr8841e</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="CDS Default Publisher" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>cr813</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>62470</CustomizationOptionValuePrefix>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="1" schemaName="cr813_bhag" behavior="0" />
+      <RootComponent type="1" schemaName="cr813_strategicplan" behavior="0" />
+      <RootComponent type="1" schemaName="cr813_strategic_5_year_targets" behavior="0" />
+      <RootComponent type="1" schemaName="cr813_strategic_annualthemes" behavior="0" />
+      <RootComponent type="1" schemaName="cr813_strategic_keyinitiatives" behavior="0" />
+      <RootComponent type="1" schemaName="cr813_strategic_plan" behavior="0" />
+      <RootComponent type="1" schemaName="cr813_strategic_sandbox" behavior="0" />
+      <RootComponent type="1" schemaName="cr813_strategic_thrusts" behavior="0" />
+      <RootComponent type="300" schemaName="cr813_strategicplanner_38661" behavior="0" />
+    </RootComponents>
+    <MissingDependencies />
+  </SolutionManifest>
+</ImportExportXml>
